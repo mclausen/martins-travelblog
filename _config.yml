@@ -4,7 +4,7 @@ description: Velkommen til min rejseblog! Her finder du en række små skriv om 
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "/martins-travelblog/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://samanyougarg.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 future: true
