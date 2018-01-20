@@ -4,7 +4,7 @@ cover: 'assets/images/bangkokmain.jpg'
 title: Hello Bangkok
 date: 2018-01-17 00:00:00
 tags: guide
-author: Author
+author: Martin
 ---
 
 <p>Wow.. Helt dybtfølt Woww!</p>
